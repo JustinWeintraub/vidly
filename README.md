@@ -8,4 +8,4 @@ I created this project by following along with Code With Mosh's tutorial series,
 
 Here is my certificate, showcasing my proof of completion of the course:
 
-https://user-images.githubusercontent.com/44651405/70868160-c9fc8800-1f4b-11ea-8479-9ff9f39503e0.png
+![certificate-of-completion-for-mastering-react](https://user-images.githubusercontent.com/44651405/70868160-c9fc8800-1f4b-11ea-8479-9ff9f39503e0.png)
